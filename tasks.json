@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Buy groceries",
+        "description": "Milk, Bread, Eggs",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "title": "Finish project report",
+        "description": "Due on Friday",
+        "category": "Work",
+        "completed": true
+    },
+    {
+        "title": "hjshsj",
+        "description": "djsgkgrsk",
+        "category": "wprk",
+        "completed": false
+    }
+]
